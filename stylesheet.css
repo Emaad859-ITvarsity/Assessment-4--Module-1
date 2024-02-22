@@ -1,0 +1,16 @@
+table {
+    border-color: rgb(9, 47, 241);
+    
+}
+
+th{
+    background-color: aqua;
+
+}
+th, td{
+    padding:8px
+}
+
+th, td{
+    text-align: center;
+}
